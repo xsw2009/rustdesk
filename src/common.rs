@@ -910,7 +910,7 @@ pub fn get_api_server(api: String, custom: String) -> String {
             return format!("http://{}", s);
         }
     }
-    "http://xsw2009.dynv6.net:8000".to_owned()
+    "http://xsw.8890909.xyz:8000".to_owned()
 }
 
 pub fn get_audit_server(api: String, custom: String, typ: String) -> String {
